@@ -20,3 +20,5 @@
 		* this will add all changes in the current directory but not the sub directory
 	* git add -all OR git add -A
 		* this will add all hidden files but try not to add hidden files. They are often hidden for a reason. .gitignore is an exception
+
+# VS Demonstrations
