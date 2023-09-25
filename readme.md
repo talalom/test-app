@@ -7,10 +7,9 @@
 * git status
 * git commit -m "Readme file updated" // because we cloned the repo, we don't need the origin, but it is a needed step if you don't clone
 * git push -u origin main
-* 
 ## Extra Comments
 
-* git add cna have multiple endings:
+* git add can have multiple endings:
 	* git add readme.md
 		* This will add a single file to the staging area
 	* git add readme.md index ts
