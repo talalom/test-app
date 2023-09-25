@@ -48,10 +48,3 @@ git merge example
 git push origin main
 ```
 
-* sometimes we don't need to keep the test branch, so we can delete the branch
-
-```
-git branch -d example
-OR
-git branch -D example // this will force the branch to delete even if there are unmerged changes
-```
