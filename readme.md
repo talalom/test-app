@@ -38,4 +38,12 @@
 * We can use branching to allow engineers to try different solutions without causing issues on the main codebase
 ```
 git branch example
+git checkout example
+```
+* to merge with main, we need to do:
+```
+git checkout main
+git pull origin main
+git merge example
+git push origin main
 ```
