@@ -22,3 +22,5 @@
 		* this will add all hidden files but try not to add hidden files. They are often hidden for a reason. .gitignore is an exception
 
 # VS Demonstrations
+* using the git changes window, we can use a gui instead of a command line
+* if you don't see the git changes, click view and git changes
