@@ -1,0 +1,12 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "* git clone url.com // to clone the repo\r * cd into the folder you've cloned\r * git status // to see the folder's status\r * git add readme.md\r * git status\r * git commit -m \"Readme file updated\" // because we cloned the repo, we don't need the origin, but it is a needed step if you don't clone\r * git push -u origin main\r ## Extra Comments",
+  "main": "ignoreMe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -24,3 +24,18 @@
 # VS Demonstrations
 * using the git changes window, we can use a gui instead of a command line
 * if you don't see the git changes, click view and git changes
+
+# Version Numbers of Applications
+
+* 1.0.0
+* The far right 0.0.1 <- Is a minor change to the application
+	* 0.0.2 is a minor change from 0.0.1
+* The middle number 0.1.0 <- is a bigger change but not a drastic move
+* The left number 2.0.0 <- is a major change, like visual changes, overhaul, or a lot of features
+
+## Branching
+
+* We can use branching to allow engineers to try different solutions without causing issues on the main codebase
+```
+git branch example
+```
